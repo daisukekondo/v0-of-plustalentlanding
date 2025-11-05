@@ -4,7 +4,7 @@ import { ArrowRight } from "lucide-react"
 export function CtaSection() {
   return (
     <section className="bg-primary py-20 text-white md:py-28 lg:py-32">
-      <div className="container mx-auto max-w-[1600px] px-4 sm:px-6 lg:px-8">
+      <div className="container mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="mb-6 font-sans text-3xl font-bold text-white text-balance md:text-4xl lg:text-5xl">
             今すぐPLUS TALENTで

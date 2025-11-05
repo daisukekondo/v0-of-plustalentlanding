@@ -42,7 +42,7 @@ export function ValuesSection() {
 
   return (
     <section id="values" className="bg-white py-16 md:py-20 lg:py-24">
-      <div className="container mx-auto max-w-[1600px] px-4 sm:px-6 lg:px-8">
+      <div className="container mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
         <div className="mx-auto mb-24 max-w-3xl text-center md:mb-28 lg:mb-36">
           <h2 className="whitespace-nowrap font-sans text-2xl font-bold text-primary md:text-3xl lg:text-4xl">
             PLUS TALENTが提供する3つの価値。
