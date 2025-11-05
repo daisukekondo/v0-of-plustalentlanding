@@ -4,6 +4,7 @@ import { LogoSlider } from "@/components/logo-slider"
 import { ChallengesSection } from "@/components/challenges-section"
 import { ServiceOverviewSection } from "@/components/service-overview-section"
 import { ValuesSection } from "@/components/values-section"
+import { MidCtaSection } from "@/components/mid-cta-section"
 import { EffectsSection } from "@/components/effects-section"
 import { FaqSection } from "@/components/faq-section"
 import { CtaSection } from "@/components/cta-section"
@@ -19,6 +20,7 @@ export default function Home() {
         <ChallengesSection />
         <ServiceOverviewSection />
         <ValuesSection />
+        <MidCtaSection />
         <EffectsSection />
         <FaqSection />
         <CtaSection />

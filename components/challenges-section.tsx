@@ -19,7 +19,7 @@ export function ChallengesSection() {
 
   return (
     <section className="bg-[#f8f9fa] py-16 md:py-20 lg:py-24">
-      <div className="container mx-auto max-w-[1600px] px-4 sm:px-6 lg:px-8">
+      <div className="container mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-5xl text-center">
           <p className="mb-3 font-sans text-sm font-medium uppercase tracking-wider text-accent">Problem</p>
           <h2 className="mb-4 font-sans text-2xl font-semibold text-primary md:text-3xl lg:text-4xl">
